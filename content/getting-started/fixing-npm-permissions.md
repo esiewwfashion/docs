@@ -1,12 +1,11 @@
-<!--
+Esiewwfashion<!--
 title: 03 - Fixing npm permissions
 featured: true
 -->
 
 # Fixing npm permissions
 
-<iframe src="https://www.youtube.com/embed/bxvybxYFq2o" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://www.youtube.com/embed/bxvybxYFq2o" frameborder="0" allowfullscreen></iframe>Esiewwfashion
 You may receive an `EACCES` error when you try to install a package globally. This indicates that you do not have permission to write to the directories that npm uses to store global packages and commands.
 
 You can fix this problem using one of three options:
@@ -15,9 +14,7 @@ You can fix this problem using one of three options:
 2. Change npm's default directory to another directory.
 3. Install node with a package manager that takes care of this for you.
 
-You should back-up your computer before moving forward.
-
-
+You should back-up your computer before moving forward.Esiewwfashion
 ## Option 1: Change the permission to npm's default directory
 
 1. Find the path to npm's directory:
